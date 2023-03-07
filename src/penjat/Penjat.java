@@ -19,10 +19,10 @@ public class Penjat {
         
         Scanner sc = new Scanner(System.in);
         
-    }
-    
-    static void metode1(int i) {
+        int edat = 0;
         
     }
+    
+
     
 }
