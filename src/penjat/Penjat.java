@@ -4,6 +4,8 @@
  */
 package penjat;
 
+import java.util.Scanner;
+
 /**
  *
  * @author rferrero
@@ -15,6 +17,7 @@ public class Penjat {
      */
     public static void main(String[] args) {
         
+        Scanner sc = new Scanner(System.in);
         
     }
     
